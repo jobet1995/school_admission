@@ -1,0 +1,1444 @@
+.univerz-university {
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.univerz-university .div {
+  background-color: #eaeaea;
+  height: 7000px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.univerz-university .hero {
+  height: 1000px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.univerz-university .our-course {
+  height: 830px;
+  left: 70px;
+  position: absolute;
+  top: 2170px;
+  width: 1304px;
+}
+
+.univerz-university .text-wrapper {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1001px;
+}
+
+.univerz-university .p {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  width: 640px;
+}
+
+.univerz-university .element {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 296px;
+  width: 397px;
+}
+
+.univerz-university .tx {
+  height: 87px;
+  left: 36px;
+  position: relative;
+  top: 47px;
+  width: 328px;
+}
+
+.univerz-university .icon {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 69px;
+}
+
+.univerz-university .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.univerz-university .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 231px;
+}
+
+.univerz-university .tx-wrapper {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 451px;
+  position: absolute;
+  top: 296px;
+  width: 397px;
+}
+
+.univerz-university .img {
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 69px;
+}
+
+.univerz-university .div-wrapper {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 903px;
+  position: absolute;
+  top: 296px;
+  width: 397px;
+}
+
+.univerz-university .tx-2 {
+  height: 87px;
+  left: 37px;
+  position: relative;
+  top: 47px;
+  width: 327px;
+}
+
+.univerz-university .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 231px;
+}
+
+.univerz-university .icon-2 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 69px;
+}
+
+.univerz-university .element-2 {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 532px;
+  width: 397px;
+}
+
+.univerz-university .tx-3 {
+  height: 87px;
+  left: 37px;
+  position: relative;
+  top: 48px;
+  width: 327px;
+}
+
+.univerz-university .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.univerz-university .icon-3 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 68px;
+}
+
+.univerz-university .element-3 {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 451px;
+  position: absolute;
+  top: 532px;
+  width: 397px;
+}
+
+.univerz-university .tx-4 {
+  height: 87px;
+  left: 36px;
+  position: relative;
+  top: 48px;
+  width: 328px;
+}
+
+.univerz-university .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.univerz-university .icon-4 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 69px;
+}
+
+.univerz-university .element-4 {
+  background-color: #0540f2;
+  border-radius: 25px;
+  height: 182px;
+  left: 903px;
+  position: absolute;
+  top: 532px;
+  width: 397px;
+}
+
+.univerz-university .tx-5 {
+  height: 87px;
+  left: 37px;
+  position: relative;
+  top: 48px;
+  width: 328px;
+}
+
+.univerz-university .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.univerz-university .icon-5 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 71px;
+}
+
+.univerz-university .view-all {
+  height: 48px;
+  left: 515px;
+  position: absolute;
+  top: 782px;
+  width: 271px;
+}
+
+.univerz-university .overlap-group {
+  background-color: #0540f2;
+  border-radius: 60px;
+  height: 48px;
+  position: relative;
+  width: 269px;
+}
+
+.univerz-university .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.univerz-university .about-us {
+  height: 830px;
+  left: 70px;
+  position: absolute;
+  top: 1170px;
+  width: 1306px;
+}
+
+.univerz-university .overlap {
+  height: 651px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 1037px;
+}
+
+.univerz-university .overlap-2 {
+  height: 651px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1037px;
+}
+
+.univerz-university .rectangle {
+  height: 651px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 530px;
+}
+
+.univerz-university .rectangle-2 {
+  height: 422px;
+  left: 604px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 433px;
+}
+
+.univerz-university .students {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 168px;
+  left: 473px;
+  position: absolute;
+  top: 179px;
+  width: 177px;
+}
+
+.univerz-university .tx-6 {
+  height: 105px;
+  left: 35px;
+  position: relative;
+  top: 31px;
+  width: 111px;
+}
+
+.univerz-university .text-wrapper-9 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 79px;
+}
+
+.univerz-university .text-wrapper-10 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 107px;
+}
+
+.univerz-university .image {
+  height: 38px;
+  left: 13px;
+  position: absolute;
+  top: 67px;
+  width: 80px;
+}
+
+.univerz-university .overlap-group-2 {
+  height: 38px;
+  position: relative;
+}
+
+.univerz-university .ellipse {
+  height: 38px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.univerz-university .ellipse-2 {
+  height: 38px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.univerz-university .ellipse-3 {
+  height: 38px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.univerz-university .read-more {
+  height: 48px;
+  left: 604px;
+  position: absolute;
+  top: 603px;
+  width: 271px;
+}
+
+.univerz-university .text-wrapper-11 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 604px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 462px;
+  width: 433px;
+}
+
+.univerz-university .univerz-s-commitment {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  top: 0;
+  width: 681px;
+}
+
+.univerz-university .text-wrapper-12 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 749px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  width: 551px;
+}
+
+.univerz-university .course {
+  height: 133px;
+  left: 1115px;
+  position: absolute;
+  top: 178px;
+  width: 188px;
+}
+
+.univerz-university .overlap-3 {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 133px;
+  position: relative;
+  width: 184px;
+}
+
+.univerz-university .text-wrapper-13 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.univerz-university .text-wrapper-14 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.univerz-university .startups {
+  height: 133px;
+  left: 1115px;
+  position: absolute;
+  top: 351px;
+  width: 188px;
+}
+
+.univerz-university .language {
+  height: 133px;
+  left: 1115px;
+  position: absolute;
+  top: 524px;
+  width: 188px;
+}
+
+.univerz-university .text-wrapper-15 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.univerz-university .text-wrapper-16 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.univerz-university .professors {
+  height: 133px;
+  left: 1116px;
+  position: absolute;
+  top: 697px;
+  width: 188px;
+}
+
+.univerz-university .text-wrapper-17 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.univerz-university .our-admission {
+  height: 830px;
+  left: 70px;
+  position: absolute;
+  top: 3170px;
+  width: 1304px;
+}
+
+.univerz-university .text-wrapper-18 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 175px;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 950px;
+}
+
+.univerz-university .text-wrapper-19 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 329px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  width: 640px;
+}
+
+.univerz-university .element-5 {
+  height: 50px;
+  left: 661px;
+  position: absolute;
+  top: 335px;
+  width: 641px;
+}
+
+.univerz-university .check-wrapper {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.univerz-university .check {
+  background-color: #0540f2;
+  border-radius: 15px;
+  height: 50px;
+  position: relative;
+}
+
+.univerz-university .vector {
+  height: 19px;
+  left: 13px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.univerz-university .text-wrapper-20 {
+  color: #222222;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 41.5px;
+  position: absolute;
+  top: 0;
+  width: 549px;
+}
+
+.univerz-university .element-6 {
+  height: 50px;
+  left: 661px;
+  position: absolute;
+  top: 415px;
+  width: 641px;
+}
+
+.univerz-university .text-wrapper-21 {
+  color: #222222;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 41.5px;
+  position: absolute;
+  top: 4px;
+  width: 549px;
+}
+
+.univerz-university .element-7 {
+  height: 50px;
+  left: 661px;
+  position: absolute;
+  top: 495px;
+  width: 641px;
+}
+
+.univerz-university .element-8 {
+  height: 50px;
+  left: 661px;
+  position: absolute;
+  top: 575px;
+  width: 641px;
+}
+
+.univerz-university .element-9 {
+  height: 50px;
+  left: 661px;
+  position: absolute;
+  top: 655px;
+  width: 641px;
+}
+
+.univerz-university .rectangle-3 {
+  height: 534px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 607px;
+}
+
+.univerz-university .overlap-group-wrapper {
+  height: 48px;
+  left: 751px;
+  position: absolute;
+  top: 782px;
+  width: 319px;
+}
+
+.univerz-university .overlap-group-3 {
+  background-color: #0540f2;
+  border-radius: 60px;
+  height: 48px;
+  position: relative;
+  width: 317px;
+}
+
+.univerz-university .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 212px;
+}
+
+.univerz-university .testimonial {
+  height: 830px;
+  left: 0;
+  position: absolute;
+  top: 4170px;
+  width: 1450px;
+}
+
+.univerz-university .overlap-4 {
+  background-color: #0540f2;
+  height: 830px;
+  position: relative;
+  width: 1440px;
+}
+
+.univerz-university .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+  width: 595px;
+}
+
+.univerz-university .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 572px;
+  letter-spacing: 0;
+  line-height: 34.5px;
+  position: absolute;
+  text-align: center;
+  top: 575px;
+  width: 296px;
+}
+
+.univerz-university .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 618px;
+  letter-spacing: 0;
+  line-height: 17.3px;
+  position: absolute;
+  text-align: center;
+  top: 642px;
+  width: 204px;
+}
+
+.univerz-university .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 400px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  width: 640px;
+}
+
+.univerz-university .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 400px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 691px;
+  width: 640px;
+}
+
+.univerz-university .ellipse-4 {
+  height: 145px;
+  left: 647px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 145px;
+}
+
+.univerz-university .vector-2 {
+  height: 29px;
+  left: 383px;
+  position: absolute;
+  top: 456px;
+  width: 17px;
+}
+
+.univerz-university .vector-3 {
+  height: 29px;
+  left: 1043px;
+  position: absolute;
+  top: 456px;
+  width: 17px;
+}
+
+.univerz-university .our-blog {
+  height: 830px;
+  left: 70px;
+  position: absolute;
+  top: 5170px;
+  width: 1304px;
+}
+
+.univerz-university .overlap-5 {
+  height: 150px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 1297px;
+}
+
+.univerz-university .overlap-6 {
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1295px;
+}
+
+.univerz-university .text-wrapper-28 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  top: 0;
+  width: 747px;
+}
+
+.univerz-university .text-wrapper-29 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 699px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 596px;
+}
+
+.univerz-university .view-all-2 {
+  height: 48px;
+  left: 1026px;
+  position: absolute;
+  top: 102px;
+  width: 271px;
+}
+
+.univerz-university .text-wrapper-30 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 212px;
+}
+
+.univerz-university .blog {
+  height: 622px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 403px;
+}
+
+.univerz-university .overlap-7 {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 622px;
+  position: relative;
+  width: 397px;
+}
+
+.univerz-university .rectangle-4 {
+  height: 280px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 397px;
+}
+
+.univerz-university .view-all-3 {
+  height: 48px;
+  left: 49px;
+  position: absolute;
+  top: 321px;
+  width: 183px;
+}
+
+.univerz-university .overlap-group-4 {
+  background-color: #0540f2;
+  border-radius: 19px;
+  height: 48px;
+  position: relative;
+  width: 181px;
+}
+
+.univerz-university .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.univerz-university .text-wrapper-32 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 529px;
+  width: 300px;
+}
+
+.univerz-university .text-wrapper-33 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 447px;
+  width: 300px;
+}
+
+.univerz-university .text-wrapper-34 {
+  color: #222222;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 399px;
+  width: 81px;
+}
+
+.univerz-university .overlap-wrapper {
+  height: 622px;
+  left: 451px;
+  position: absolute;
+  top: 208px;
+  width: 403px;
+}
+
+.univerz-university .view-all-4 {
+  height: 48px;
+  left: 47px;
+  position: absolute;
+  top: 321px;
+  width: 183px;
+}
+
+.univerz-university .text-wrapper-35 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 529px;
+  width: 303px;
+}
+
+.univerz-university .tips-so-you-don-t {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 447px;
+  width: 228px;
+}
+
+.univerz-university .text-wrapper-36 {
+  color: #222222;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 399px;
+  width: 81px;
+}
+
+.univerz-university .blog-2 {
+  height: 622px;
+  left: 903px;
+  position: absolute;
+  top: 208px;
+  width: 403px;
+}
+
+.univerz-university .view-all-5 {
+  height: 48px;
+  left: 45px;
+  position: absolute;
+  top: 321px;
+  width: 183px;
+}
+
+.univerz-university .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.univerz-university .text-wrapper-38 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 529px;
+  width: 306px;
+}
+
+.univerz-university .text-wrapper-39 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 447px;
+  width: 277px;
+}
+
+.univerz-university .text-wrapper-40 {
+  color: #222222;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 399px;
+  width: 81px;
+}
+
+.univerz-university .contact-us {
+  height: 830px;
+  left: 0;
+  position: absolute;
+  top: 6170px;
+  width: 1440px;
+}
+
+.univerz-university .contact {
+  background-color: #0540f2;
+  height: 436px;
+  left: 0;
+  position: absolute;
+  top: 394px;
+  width: 1440px;
+}
+
+.univerz-university .information {
+  height: 237px;
+  left: 70px;
+  position: relative;
+  top: 100px;
+  width: 1300px;
+}
+
+.univerz-university .univerz {
+  height: 177px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 424px;
+}
+
+.univerz-university .text-wrapper-41 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 420px;
+}
+
+.univerz-university .text-wrapper-42 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.univerz-university .quick-links {
+  height: 237px;
+  left: 566px;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.univerz-university .text-wrapper-43 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.univerz-university .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-45 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-46 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-47 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 213px;
+  white-space: nowrap;
+}
+
+.univerz-university .pages {
+  height: 235px;
+  left: 893px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.univerz-university .text-wrapper-48 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.univerz-university .text-wrapper-49 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-50 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 163px;
+  white-space: nowrap;
+}
+
+.univerz-university .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 211px;
+  white-space: nowrap;
+}
+
+.univerz-university .follow-us {
+  height: 235px;
+  left: 1193px;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.univerz-university .text-wrapper-53 {
+  color: #ffffff;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.univerz-university .CTA {
+  height: 320px;
+  left: 346px;
+  position: absolute;
+  top: 0;
+  width: 751px;
+}
+
+.univerz-university .text-wrapper-54 {
+  color: #0540f2;
+  font-family: "Belanosima-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 69.1px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 747px;
+}
+
+.univerz-university .view-all-6 {
+  height: 48px;
+  left: 225px;
+  position: absolute;
+  top: 272px;
+  width: 271px;
+}
+
+.univerz-university .text-wrapper-55 {
+  color: #222222;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  width: 596px;
+}
